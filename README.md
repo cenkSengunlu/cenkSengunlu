@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Cenk+Şengünlü...;)](https://git.io/typing-svg)
 
-Hello, my name is Cenk Şengünlü. I am studying at Pamukkale University, Computer Engineering. 
-I am developing myself in the field of Front-End Web programming. 
-I'm currently in the phase of learning ReactJS and after I reach a certain level, I want to do the projects I've done before using ReactJS and go above them. 
-I have half a year of experience in the field of Front-End and I am trying to improve myself in this field.
+Has experience in web applications development, responsive design. I develop my projects using HTML, CSS, JS, Tailwind and React. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
 
 - 💬 Ask me about anything you want that helps you learn about me!
 - 😄 Pronouns: Im passionate in web developing and i like learn new things!
