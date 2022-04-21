@@ -3,7 +3,6 @@
 Has experience in web applications development, responsive design. I develop my projects using HTML, CSS, JS, Tailwind and React. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
 
 - 💬 Ask me about anything you want that helps you learn about me!
-- 😄 Pronouns: Im passionate in web developing and i like learn new things!
 
 <strong> Im currently member of Pamukkale University Computer Enginnering student! </strong>
 
