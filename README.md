@@ -12,21 +12,9 @@ Has experience in web applications development, responsive design. I develop my 
 
 <a href="https://www.linkedin.com/in/cenk-şengünlü-b58517210/" target="_blank" rel="nofollow"><img alt="Cenk's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--   <a href="mailto:cenksengunlu@protonmail.com" target="_blank" rel="nofollow"><img alt="Cenk's Mail Address" src="https://camo.githubusercontent.com/bd4793f00703fc5a7a470e8a2b52c32ea19a9520672606692222e86630653c5a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d50726f746f6e4d61696c26636f6c6f723d384238394343266c6f676f3d50726f746f6e4d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d" /></a> -->
 
 # 💻 Languages and Tools:
-
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
-
-<!-- <code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code> -->
-
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" alt="languages and tools">
 
 # 📈 Statistics:
 
