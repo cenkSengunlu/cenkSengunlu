@@ -14,7 +14,7 @@ Has experience in web applications development, responsive design. I develop my 
 
 
 # 💻 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux" alt="languages and tools">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vite" alt="languages and tools">
 
 # 📈 Statistics:
 
