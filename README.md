@@ -17,9 +17,6 @@ Has experience in web applications development, responsive design. I develop my 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,redux,vite" alt="languages and tools">
 
 # 📈 Statistics:
-
-<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=cenkSengunlu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cenkSengunlu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
