@@ -6,7 +6,7 @@ Has experience in web applications development, responsive design. I develop my 
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
-<strong> Im currently Computer Enginnering student at Pamukkale University! </strong>
+<strong> Im currently Computer Engineering student at Pamukkale University! </strong>
 
 ## 🌐 Socials:
 
