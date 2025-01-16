@@ -6,8 +6,6 @@ Has experience in web applications development, responsive design. I develop my 
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
-<strong> Im currently Computer Engineering student at Pamukkale University! </strong>
-
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/cenk-şengünlü-b58517210/" target="_blank" rel="nofollow"><img alt="Cenk's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
