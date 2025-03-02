@@ -2,7 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Cenk+Şengünlü...;)](https://git.io/typing-svg)
 
-Has experience in web applications development, responsive design. I develop my projects using HTML, CSS, Tailwind CSS, JavaScript, TypeScript and React. I like to learn and research new things. Organized, responsible and self-critical person, attentive to details as well, goal-oriented, team player.
+I'm a software engineer with experience in developing single-page applications using React and server-side applications with Next.js. I have hands-on expertise with Tailwind, ShadCN UI, Material-UI, and Chakra UI, which allows me to build clean, responsive, and user-friendly interfaces.
+
+I’m skilled at turning Figma UI/UX designs into code and making sure everything works smoothly across different devices. I’m organized, detail-oriented, and always looking for ways to improve. I enjoy working in teams and making sure we’re all aligned and moving toward the same goals.
+
+I believe in keeping up with the latest trends in front-end development and constantly improving my skills to create better, more efficient solutions.
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
