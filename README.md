@@ -4,7 +4,7 @@
 
 I’m a software engineer specializing in building single-page and server-side applications with React and Next.js. I have hands-on experience with Tailwind, Shadcn UI, Material UI, and Chakra UI, allowing me to create clean, responsive, and user-friendly interfaces. I’m passionate about programming and problem-solving, and I’m motivated by seeing the real-world impact of the products I build.
 
-I implement Figma designs into working products, ensuring consistent performance across devices. I enjoy collaborating with teams, keeping projects organized, and aligning efforts toward shared goals. I want to hone my skills within a team I could lead and guide with my accumulated experience.
+I convert Figma designs into functional, cross-device compatible UIs, ensuring consistent performance across devices. I enjoy collaborating with teams, keeping projects organized, and aligning efforts toward shared goals. I aim to advance my frontend skills by contributing to impactful, production-level work within a collaborative and growth-minded team.
 
 In past projects, I’ve built scalable interfaces that supported thousands of users and helped optimize performance across platforms. I stay current with front-end development trends and continuously work on improving my skills to deliver efficient, maintainable solutions that users love and businesses rely on.
 
