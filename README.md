@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&vCenter=true&lines=Hello+There!+;I'm+Cenk+Şengünlü...;)](https://git.io/typing-svg)
 
-I'm a software engineer with experience in developing single-page applications using React and server-side applications with Next.js. I have hands-on expertise with Tailwind, ShadCN UI, Material-UI, and Chakra UI, which allows me to build clean, responsive, and user-friendly interfaces.
+I’m a software engineer specializing in building single-page and server-side applications with React and Next.js. I have hands-on experience with Tailwind, Shadcn UI, Material UI, and Chakra UI, allowing me to create clean, responsive, and user-friendly interfaces. I’m passionate about programming and problem-solving, and I’m motivated by seeing the real-world impact of the products I build.
 
-I’m skilled at turning Figma UI/UX designs into code and making sure everything works smoothly across different devices. I’m organized, detail-oriented, and always looking for ways to improve. I enjoy working in teams and making sure we’re all aligned and moving toward the same goals.
+I implement Figma designs into working products, ensuring consistent performance across devices. I enjoy collaborating with teams, keeping projects organized, and aligning efforts toward shared goals. I want to hone my skills within a team I could lead and guide with my accumulated experience.
 
-I believe in keeping up with the latest trends in front-end development and constantly improving my skills to create better, more efficient solutions.
+In past projects, I’ve built scalable interfaces that supported thousands of users and helped optimize performance across platforms. I stay current with front-end development trends and continuously work on improving my skills to deliver efficient, maintainable solutions that users love and businesses rely on.
 
 - 💬 Ask me about anything you want that helps you learn about me!
 
